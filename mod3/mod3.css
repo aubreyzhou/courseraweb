@@ -3,8 +3,9 @@ h1{
 	margin-bottom: 0;
 	margin-top: 0;
 }
-#dropdown, li{
-	background-color: grey;
+#dropdown a{
+	color: grey;
+	text-align: center;
 }
 #heading{
 	font-size: 200%;
