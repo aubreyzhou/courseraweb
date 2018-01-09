@@ -1,0 +1,15 @@
+h1{
+	text-align: left;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+#dropdown{
+	background-color: grey;
+}
+#tall{
+	height: 1000px;
+}
+#Chicken{
+	font-size: 120%;
+	text-align: center;
+}
