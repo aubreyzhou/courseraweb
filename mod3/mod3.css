@@ -12,10 +12,10 @@ h1{
 #tall{
 	height: 1000px;
 	background-color: lime;
-	margin: 5px;
+	margin: 10px, 5px, 10px, 5px;
+	
 }
 #Chicken{
-	margin-bottom: 10px;
 	font-size: 180%;
 	text-align: center;
 }
