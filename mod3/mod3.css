@@ -8,10 +8,12 @@ h1{
 }
 #heading{
 	font-size: 200%;
+	margin-bottom: 10px;
 }
 #tall{
 	height: 1000px;
 	background-color: lime;
+	margin: 5px;
 }
 #Chicken{
 	font-size: 180%;
