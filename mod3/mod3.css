@@ -6,8 +6,12 @@ h1{
 #dropdown{
 	background-color: grey;
 }
+#heading{
+	font-size: 180%;
+}
 #tall{
 	height: 1000px;
+	background-color: lime;
 }
 #Chicken{
 	font-size: 120%;
