@@ -8,7 +8,6 @@ h1{
 }
 #heading{
 	font-size: 200%;
-	margin-bottom: 10px;
 }
 #tall{
 	height: 1000px;
@@ -16,6 +15,7 @@ h1{
 	margin: 5px;
 }
 #Chicken{
+	margin-bottom: 10px;
 	font-size: 180%;
 	text-align: center;
 }
