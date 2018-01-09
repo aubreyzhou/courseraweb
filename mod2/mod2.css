@@ -1,0 +1,59 @@
+*{
+	box-sizing: border-box;
+	font-family: serif;
+}
+h1{
+	font-size: 175%;
+	text-align: center;
+}
+@media (min-width: 992px){
+	.col-lg-4{
+		width: 33.33%;
+		float: left;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.col-md-6{
+		width: 50%;
+		float: left;
+	}
+	.col-md-12{
+		width: 100%;
+		float: left;
+	}
+}
+@media (max-width: 767px){
+	.col-sm-12{
+		width: 100%;
+		float: left;
+	}
+}
+	#Requirement1,#Requirement2,#Requirement3{
+		margin:15px;
+		background-color: grey;
+		border: 1px solid black;
+	}
+	#R1,#R2,#R3{
+		font-size: 125%;
+		position: relative;
+		float: right;
+		border: 1px solid black;
+		padding: 5px;
+	}
+
+	#R1{
+		background-color: lime;
+	}
+
+	#R2{
+		background-color: lightblue;
+	}
+
+	#R3{
+		background-color: red;
+	}
+
+	p{
+		padding: 5px;
+		clear: right;
+	}
