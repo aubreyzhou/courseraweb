@@ -3,6 +3,10 @@ h1{
 	margin-bottom: 0;
 	margin-top: 0;
 }
+p{
+	padding-left: 10px;
+	padding-left: 10px;
+}
 #list{
 	color: grey;
 	text-align: center;
@@ -14,7 +18,7 @@ h1{
 #tall{
 	height: 1000px;
 	background-color: lime;
-	margin: 20px 15px 20px 15px;
+	margin: 20px;
 	
 }
 #Chicken{
