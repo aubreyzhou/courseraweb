@@ -4,9 +4,10 @@ h1{
 	margin-top: 0;
 }
 
-#dropdown a{
+#list{
 	color: grey;
 	text-align: center;
+	clear:right;
 }
 #heading{
 	font-size: 200%;
