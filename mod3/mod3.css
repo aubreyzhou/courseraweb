@@ -25,3 +25,9 @@ p{
 	font-size: 180%;
 	text-align: center;
 }
+p{
+	padding:10px;
+}
+#chicken, #beef, #sushi{
+	margin:5px 10px 5px;
+}
