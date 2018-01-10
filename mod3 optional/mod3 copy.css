@@ -1,0 +1,29 @@
+h1{
+	text-align: left;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+#dropdown{
+	background-color: lightblue;
+	text-align: center;
+	clear: both;
+}
+#heading{
+	font-size: 200%;
+}
+#tall{
+	height: 1000px;
+	background-color: lime;
+	margin: 20px;
+	
+}
+#Chicken{
+	font-size: 180%;
+	text-align: center;
+}
+p{
+	padding:10px;
+}
+#chicken, #beef, #sushi{
+	margin:5px 10px 5px;
+}
