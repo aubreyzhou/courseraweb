@@ -26,4 +26,6 @@ p{
 }
 #chicken, #beef, #sushi{
 	margin:5px 10px 5px;
+	border: 1px solid black;
+	background-color: lightgrey;
 }
