@@ -3,13 +3,10 @@ h1{
 	margin-bottom: 0;
 	margin-top: 0;
 }
-button{
-	float:right;
-}
 #list{
 	color: grey;
 	text-align: center;
-	clear:right;
+	clear: both;
 }
 #heading{
 	font-size: 200%;
